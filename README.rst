@@ -54,7 +54,7 @@ ships with OS X 10.6 (Snow Leopard). Windows users should download and install t
 bundled with these prerequisites. Note that depending on the currency of these
 distributions, some packages may need to be updated manually.
 
-For Mac OS X 10.6 (Leopard) users, a script for installing all the key dependencies, as well as a recent build of PyMC, can be downloaded from the SciPy Superpack page.
+For Mac OS X 10.6 (Leopard) users, a script for installing all the key dependencies, as well as a recent build of PyMC, can be downloaded from the `SciPy Superpack page`_.
 
 If instead of installing the prebuilt binaries you prefer (or have) to build
 ``pymc`` yourself, make sure you have a Fortran and a C compiler. There are free
@@ -145,7 +145,9 @@ directory if it has restricted privileges.
 
 In addition, the python2.6-dev package may be required to install PyMC on Linux systems. On Ubuntu or Debian, we have had success by installing the following prior to building PyMC::
 
-    sudo apt-get install ipython python-setuptools python-dev python-nose python-tk python-numpy python-matplotlib python-scipy python-networkx gfortran libatlas-base-dev
+    sudo apt-get install ipython python-setuptools python-dev python-nose
+    python-tk python-numpy python-matplotlib python-scipy python-networkx   
+    gfortran libatlas-base-dev
 
 
 Running the test suite
