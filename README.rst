@@ -181,4 +181,5 @@ Code for the Human Development Index vs Total Fertility Rate example
 --------------------------------------------------------------------
 
 Code to `replicate examples`_ from the tutorial.
+
 .. _`replicate examples`: https://github.com/aflaxman/pymc-example-tfr-hdi
