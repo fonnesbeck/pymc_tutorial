@@ -168,3 +168,18 @@ specifying the version you are using and the environment.
 .. _`nose`: http://somethingaboutorange.com/mrl/projects/nose/
 
 .. _`issue tracker`: http://github.com/pymc-devs/pymc/issues
+
+
+Code for BDA Project Template
+-----------------------------
+
+Here is `a template`_ for a project to do Bayesian data analysis with PyMC
+
+.. _`a template`: https://github.com/aflaxman/pymc-project-template
+
+Code for the Human Development Index vs Total Fertility Rate example
+--------------------------------------------------------------------
+
+Code to `replicate examples`_ from the tutorial.
+
+.. _`replicate examples`: https://github.com/aflaxman/pymc-example-tfr-hdi
